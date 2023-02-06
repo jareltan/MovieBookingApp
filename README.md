@@ -1,7 +1,7 @@
-# SC2002 Assignment
+# MOBLIMA
 The MOBLIMA application automates the steps involved in online cinema ticket booking, sales reporting, and movie listing. Both the cinema staff and movie goers will use it. The program serves as a central "location" for scheduling all of the Cineplexes in the many locations that the provider manages.
 
-The complete study, "SC2002 Assignment Report.pdf," contains information on design principles, design considerations, and the application of object-oriented programming (OOP) techniques. A thorough UML Class Diagram for the MOBLIMA and test cases for a few crucial features are also included in the report, which is followed by screen shots of testing performed using provided test data.
+The complete study, "MOBLIMA Report.pdf," contains information on design principles, design considerations, and the application of object-oriented programming (OOP) techniques. A thorough UML Class Diagram for the MOBLIMA and test cases for a few crucial features are also included in the report, which is followed by screen shots of testing performed using provided test data.
 
 
 ## Setup instruction
